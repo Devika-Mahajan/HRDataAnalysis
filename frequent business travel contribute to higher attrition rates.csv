@@ -1,0 +1,4 @@
+BusinessTravel,TotalEmployees,AttritionCount,AttritionRate
+Travel_Frequently,270,67,24.81481
+Travel_Rarely,1005,151,15.02488
+NonTravel,148,12,8.10811
